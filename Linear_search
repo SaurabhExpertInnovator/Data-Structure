@@ -24,4 +24,5 @@ int main(){
     else{
         printf("Element is at index number %d",result);
     }
+return 0;
 }
